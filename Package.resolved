@@ -30,7 +30,7 @@
       },
       {
         "package": "CommonCrypto",
-        "repositoryURL": "https://github.com/bannzai/CommonCrypto/",
+        "repositoryURL": "https://github.com/bannzai/CommonCrypto.git",
         "state": {
           "branch": null,
           "revision": "1f0de8b10dde599c8b5e2106dcb540bf2f086d15",
